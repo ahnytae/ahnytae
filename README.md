@@ -1,16 +1,41 @@
-### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahnytae&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 👋 &nbsp; Hi there!
+<br />
+<img alt="Dog Coding" src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" align="right"/>
 
-<!--
-**ahnytae/ahnytae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻 &nbsp;About Me
 
-Here are some ideas to get you started:
+💡 &nbsp;I like to deep knowledge about front-end Stack. \
+🌱 &nbsp;I’m on track for learning more about javascript. \
+✍️ &nbsp;In my free time, I pursue read books about front-end Stack.\
+💬 &nbsp;I Likes to discuss interesting topics and read blog posts.
+<!--✉️ &nbsp;I'm..\-->
+<!--📄 &nbsp;I'm..-->
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![ts](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=05122A&color=05122A)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<br />
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<span align="left">
+<a href="https://github.com/ahnytae">
+<img width="48%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahnytae&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</span>
+<span align="right">
+<a href="https://github.com/ahnytae">
+<img width="48%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahnytae&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</span>
+</p>
