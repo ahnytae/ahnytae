@@ -1,14 +1,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahnytae&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-## 👋 &nbsp; Hi there!
+## 👋 &nbsp; 꾸벅
 <br />
 <img alt="Dog Coding" src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" align="right"/>  
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp; ?! 
 
-💡 &nbsp;I like to deep knowledge about front-end Stack. \
-🌱 &nbsp;I’m on track for learning more about javascript. \
-✍️ &nbsp;In my free time, I pursue read books about front-end Stack.\
-💬 &nbsp;I Likes to discuss interesting topics and read blog posts.
+💡 &nbsp; 
+🌱 &nbsp; 
+✍️ &nbsp; 
+💬 &nbsp;
 <!--✉️ &nbsp;I'm..\-->
 <!--📄 &nbsp;I'm..-->
 <br />
